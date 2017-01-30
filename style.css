@@ -16,3 +16,7 @@ div.marshall {
     margin-right: 50px;
     margin-left: 50px;
 }
+div.lily {   
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    column-count: 2;
+}
