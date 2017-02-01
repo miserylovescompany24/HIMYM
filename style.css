@@ -1,5 +1,9 @@
 body{background-color:#3feaa6
 }
+img.Marshall and Lily.jpg { 
+    display: block; 
+    margin: auto;
+    width: 10%;}
 img.home.png {
     display: block;
     margin: auto;
@@ -8,11 +12,11 @@ img.home.png {
 img.Lily_aldrin.jpg {
     display: block;
     margin: auto;
-    width: 10%}
+    width: 10%;}
 img.Marshall.jpg {
     display: block;
     margin: auto;
-    width: 10%}
+    width: 10%;}
 h1{text-align: center ; font-family: "Georgia", serif} 
 h2{text-align: center ; font-family: "Georgia", serif} 
 p{text-align: center ; font-family: "Georgia", serif} 
